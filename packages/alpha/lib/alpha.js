@@ -9,3 +9,7 @@ function alpha() {
 function alpha2() {
   return "alpha2";
 }
+
+function alpha3() {
+  return "alpha3";
+}
